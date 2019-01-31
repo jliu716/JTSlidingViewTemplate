@@ -1,0 +1,2 @@
+# JTSlidingViewTemplate
+using ECSlidingView
